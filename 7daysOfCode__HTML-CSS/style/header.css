@@ -1,0 +1,39 @@
+.cabecalho {
+    margin: 1em 0;
+    justify-content: space-around;
+}
+
+.container__titulo {
+    padding: 0 0.5em;
+    font-size: 24px;
+    color: var(--Cor-titulo);
+    font-family: var(--fonte-principal);
+}
+
+.opcoes {
+    margin-left: 2em;
+    list-style: none;
+}
+
+.opcoes__link {
+    text-decoration: none;
+    padding: 0 1em;
+    font-size: 16px;
+    color: var(--cinza-secundario);
+    font-family: var(--fonte-principal);
+}
+
+.container__botao {
+    padding: 0.8em;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: var(--fonte-principal);
+    color: var(--cinza-secundario);
+}
+
+.botao_cadastrar {
+    border-radius: 8px;
+    color: var(--branco-principal);
+    background: var(--vermelho-fundo);
+}
+

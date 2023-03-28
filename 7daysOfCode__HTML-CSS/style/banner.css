@@ -1,0 +1,28 @@
+.banner-container {
+    text-align: center;
+}
+
+.banner__texto {
+    padding: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Inter';
+    border-radius: 18px;
+    color: var(--vermelho-fundo);
+    background-color: rgba(142, 36, 36, 0.05);;
+}
+
+.banner__titulo {
+    padding: 1em;
+    font-size: 36px;
+    font-weight: 600;
+    font-family: 'Inter';
+}
+
+.banner__descricao {
+    padding: 0 0 3em;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Inter';
+    color: var(--azul-claro);
+}

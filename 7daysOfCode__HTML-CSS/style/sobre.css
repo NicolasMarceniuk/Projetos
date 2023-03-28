@@ -1,0 +1,30 @@
+.sobre-container {
+    padding: 7em;
+    line-height: 35px;
+    text-align: center;
+    width: 1500px;
+    margin: auto;
+}
+
+.sobre__nos {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: var(--fonte-principal);
+    color: var(--vermelho-fundo);
+}
+
+.sobre__titulo {
+    padding: 1em;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: var(--fonte-principal);
+    color: var(--azul-escuro);
+}
+
+.sobre__texto {
+    margin: 0 16em;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: var(--fonte-principal);
+    color: var(--azul-claro);
+}

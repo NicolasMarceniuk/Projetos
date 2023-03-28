@@ -1,0 +1,53 @@
+.rodape {
+    padding: 4em;
+    margin-top: 6em;
+    background: var(--branco-rodape);
+    text-align: center;
+}
+
+.rodape__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    font-family: 'Inter';
+    color: var(--azul-escuro);
+}
+
+.rodape__texto {
+    padding: 2em;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Inter';
+    color: var(--azul-claro);
+}
+
+.rodape__email {
+    margin: auto;
+    text-align: center;
+    width: 800px;
+}
+
+.email {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Inter';
+    padding: 14px 14px 14px 16px;
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+    width: 360px;
+}
+
+.email__botao {
+    padding: 1em;
+    border-radius: 8px;
+    font-family: 'Inter';
+    color: var(--branco-principal);
+    background: var(--vermelho-fundo);
+}
+
+.no-copyright {
+    padding: 3em;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Inter';
+    color: var(--no-copyright);
+}

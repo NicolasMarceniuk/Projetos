@@ -1,0 +1,30 @@
+@import url(style/header.css);
+@import url(style/sobre.css);
+@import url(style/metricas.css);
+@import url(style/banner.css);
+@import url(style/vagas.css);
+@import url(style/opniao.css);
+@import url(style/rodape.css);
+
+:root {
+    --Cor-titulo: #3A404E;
+    --azul-claro: #667085;
+    --azul-escuro: #101828;
+    --branco-rodape: #F9FAFB;
+    --vermelho-fundo: #8E2424;
+    --cinza-secundario: #667085;
+    --branco-principal: #FFFFFF;
+    --no-copyright: #98A2B3;
+    --fundo-opniao: rgba(196, 25, 25, 0.03);
+
+    --fonte-principal: "Inter";
+}
+
+body {
+    background: var(--branco--principal); 
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+}

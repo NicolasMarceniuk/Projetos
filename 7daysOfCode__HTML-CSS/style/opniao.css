@@ -1,0 +1,41 @@
+.opniao-container {
+    padding: 2em;
+    text-align: center;
+    width: 1200px;
+    margin: auto;
+    background: var(--fundo-opniao);
+    border-radius: 16px;
+}
+
+.opniao__titulo {
+    padding: 2em;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Inter';
+    color: var(--vermelho-fundo);
+}
+
+.opniao__texto {
+    font-size: 36px;
+    font-weight: 500;
+    font-family: 'Inter';
+}
+
+.opniao__usuario {
+    padding: 4em;
+}
+
+.nome__usuario {
+    padding: 1em;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Inter';
+    color: var(--azul-escuro);
+}
+
+.proficao__usuario {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Inter';
+    color: var(--azul-claro);
+}
